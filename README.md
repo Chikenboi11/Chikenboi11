@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hello World! 👋
+My name is David and I'm an aspiring software engineer and game developer. 
+
+### Languages/Software
+
+- Python
+- Java
+- Javascript
+- C#
+- Unity
+- Flask (Learning)
+
+Watch out for incoming projects!
 
 <!--
 **Chikenboi11/Chikenboi11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
